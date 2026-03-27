@@ -61,7 +61,7 @@ function downloadLocalStorage() {
     const link = document.createElement("a");
     link.href = url;
     // Set the filename for the downloaded file
-    link.download = "localStorage_export.csv";
+    link.download = "localStorage_export.tsv";
     link.style.display = "none"; // Hide the link
 
     // Append link to body, click it, and remove it
