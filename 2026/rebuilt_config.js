@@ -16,7 +16,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2026ndgf",
+      "defaultValue": "2026mnmi2",
       "required": "true"
     },
     { "name": "Match Level",
@@ -24,8 +24,7 @@ var config_data = `
       "type": "level",
       "choices": {
         "qm": "Quals<br>",
-        "sf": "Semifinals<br>",
-        "f": "Finals"
+        "pr": "Practice"
       },
       "defaultValue": "qm",
       "required": "true"
