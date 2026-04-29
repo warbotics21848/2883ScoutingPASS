@@ -16,7 +16,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2026mnmi2",
+      "defaultValue": "DALY",
       "required": "true"
     },
     { "name": "Match Level",
