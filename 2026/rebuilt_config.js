@@ -75,7 +75,7 @@ var config_data = `
       "expectedMax": 5,
       "shape": "circle 5 black red true"
     },
-    { "name": "Fuel Scored",
+    { "name": "Auto Fuel Scored",
       "code": "afs",
       "expectedMax": 32,
       "altInc1": 10,
